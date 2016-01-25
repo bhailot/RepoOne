@@ -15,6 +15,8 @@ public class Billing {
 		System.out.println("Book Name : "+book.getbName());
 		System.out.println("Book Code : "+book.getbCode());
 		System.out.println("Book Rate : "+"Rs."+book.getbRate());
+		
+		
 	}
 
 }
